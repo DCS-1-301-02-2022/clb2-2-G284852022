@@ -29,4 +29,5 @@
 - [x] 1つ以上のリンク(links)を使っている．
 - [x] 1つ以上の表(tables)を使っている．
 - [x] 1つ以上の絵文字を使っている．
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/nakajimamasato/Desktop/Literacy/clb2-2-G284852022-1/hachioji.jpg?version%3D1652689504225)
+![Takushoku University](hachioji.jpg "八王子国際キャンパス")
+:+1:
